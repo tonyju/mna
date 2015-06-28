@@ -1,0 +1,4 @@
+fromnode1,tonode1,fromnode2,tonode2,ratio(ar:vs/vl)
+3ar,-1,3a,-1,1
+3br,-1,3b,-1,1
+3cr,-1,3c,-1,1
